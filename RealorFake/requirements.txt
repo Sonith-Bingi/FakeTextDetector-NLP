@@ -1,0 +1,11 @@
+transformers
+accelerate
+datasets
+lightgbm
+emoji
+ftfy
+torch
+pandas
+numpy
+scikit-learn
+tqdm
